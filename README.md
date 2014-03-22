@@ -1,7 +1,7 @@
 siraja
 ======
 
-sistem informasi rawat jalan sederhana
+sistem informasi rawat jalan (sederhana)
 
 cara install:
 1.extract di folder htdocs/public_html
